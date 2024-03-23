@@ -1,4 +1,4 @@
-# Kubernetes DevSecOps CICD Project Using Github Actions and ArgoCD
+# Kubernetes DevSecOps CICD Project Using Github Actions(for cicd) and ArgoCD (for kubernetses workflow)
 
 ## Video Tutorial
 
